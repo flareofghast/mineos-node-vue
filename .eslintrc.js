@@ -1,7 +1,0 @@
-{
-    overrides: [
-        {
-            "files" :[ "html/**/*.js"]
-        }
-    ]
-}
